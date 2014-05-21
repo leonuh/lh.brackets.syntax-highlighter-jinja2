@@ -5,7 +5,7 @@ define(function (require, exports, module) {
   LanguageManager.defineLanguage("jinja2", {
     name: "Jinja2",
     mode: "jinja2",
-    fileExtensions: ["html"],,
+    fileExtensions: ["html"],
     blockComment: ["{#", "#}"]
   });
 
